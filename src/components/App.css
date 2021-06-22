@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  z-index: 100;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right:0;
+  width: 100%;
+  z-index: 100;
+}
+
+.background {
+  background-image: "url('https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg')";
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}

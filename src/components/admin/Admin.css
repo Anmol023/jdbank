@@ -1,0 +1,12 @@
+.nav-link.active{
+    background:white !important;
+    color: blue !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+hr{
+    color: black;
+}
